@@ -1,0 +1,12 @@
+# Ignore environment files and system folders
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.db
+
+# Ignore FAISS index
+faiss_index/
+
+# Ignore venv
+venv/
